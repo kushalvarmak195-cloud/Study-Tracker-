@@ -29,11 +29,11 @@ Ensure you have **Python 3** installed on your system. You can check this by run
 2.  *Clone the Repository:*
     Run the git clone command using the verified URL to download the entire project.
     bash
-    git clone 
+    git clone https://github.com/kushalvarmak195-cloud/Study-Tracker-
 
 3.  *Navigate into the Project Folder:*
     bash
-    cd Personal-Budget-Tracker-Project
+    cd studytracker
 
 
 ### Running the Application
@@ -82,3 +82,4 @@ Choose option 2.
 
 
 Result: You should see "Math" with a total of 90 minutes (60+30) and "History" with its entered time.
+
