@@ -20,14 +20,21 @@ The **Simple Study Tracker** is a command-line application built in Python desig
 Ensure you have **Python 3** installed on your system. You can check this by running `python --version` in your terminal.
 
 ### Installation
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR-USERNAME/simple-study-tracker.git](https://github.com/YOUR-USERNAME/simple-study-tracker.git)
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd simple-study-tracker
-    ```
+1.  *Navigate to Target Directory:*
+    Open the Command Prompt or PowerShell and navigate to the directory where you want the project folder to be created.
+    bash
+    cd Desktop
+    
+
+2.  *Clone the Repository:*
+    Run the git clone command using the verified URL to download the entire project.
+    bash
+    git clone 
+
+3.  *Navigate into the Project Folder:*
+    bash
+    cd Personal-Budget-Tracker-Project
+
 
 ### Running the Application
 Run the script using the Python command:
@@ -72,5 +79,6 @@ Result: The program should display an error message and ask for the duration aga
 Verify Summary:
 
 Choose option 2.
+
 
 Result: You should see "Math" with a total of 90 minutes (60+30) and "History" with its entered time.
